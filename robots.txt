@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-
-Sitemap: https://battalovksa.com/sitemap.xml
+Sitemap: https://emiz.battalovksa.com/sitemap.xml
